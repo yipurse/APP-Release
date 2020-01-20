@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.LoanSuperMarket.Enterprise</string>
 				<key>bundle-version</key>
-				<string>3.0.4</string>
+				<string>3.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
